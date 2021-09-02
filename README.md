@@ -1,4 +1,4 @@
-# m3u8-player
+# m3u8-player   test page  https://tontheonelove.github.io/hls-m3u8-webplayer/
 M3U8 Player in browser. Play any live stream m3u8 link with this webapp at 
 
 I created this website because VLC is unstable in playing live streams. It buffers a lot.
